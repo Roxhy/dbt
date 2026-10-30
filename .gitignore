@@ -1,0 +1,10 @@
+
+target/
+dbt_packages/
+logs/
+# Environnement Python local
+.venv/
+
+# Fichiers personnels dbt
+.user.yml
+profiles.yml
